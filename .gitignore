@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
 artifacts/*
+=======
+>>>>>>> 1942e1ca8ed2175db5bc9316b345c976c2521f58
 
 # C extensions
 *.so

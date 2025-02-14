@@ -3,7 +3,11 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
+<<<<<<< HEAD
 from mlproject import logger
+=======
+from mlProject import logger
+>>>>>>> 1942e1ca8ed2175db5bc9316b345c976c2521f58
 import json
 import joblib
 from ensure import ensure_annotations
