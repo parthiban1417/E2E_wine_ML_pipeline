@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from mlproject import logger
 from mlproject.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 
@@ -12,7 +11,3 @@ except Exception as e:
         logger.exception(e)
         raise e
 
-=======
-from mlproject import logger 
-logger.info('Hello welcome to ML prject')
->>>>>>> 1942e1ca8ed2175db5bc9316b345c976c2521f58

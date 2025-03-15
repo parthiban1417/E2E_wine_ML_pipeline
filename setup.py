@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "E2E_wine_ML_pipeline"
 AUTHOR_USER_NAME = "parthiban1417"
-SRC_REPO = "mlProject"
+SRC_REPO = "mlproject"
 AUTHOR_EMAIL = "parthiban1315@gmail.com"
 
 
