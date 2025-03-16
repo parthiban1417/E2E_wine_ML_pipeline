@@ -10,4 +10,6 @@ joblib
 types-pyYAML
 Flask
 Flask-Cors
+jinja2==2.11.3
+markupsafe==2.0.1
 -e .
