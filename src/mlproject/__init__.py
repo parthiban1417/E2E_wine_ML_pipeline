@@ -18,8 +18,4 @@ logging.basicConfig(
         ]
 )
 
-<<<<<<< HEAD
-logger = logging.getLogger("mlprojectLogger")
-=======
 logger = logging.getLogger("mlProjectLogger")
->>>>>>> 1942e1ca8ed2175db5bc9316b345c976c2521f58
